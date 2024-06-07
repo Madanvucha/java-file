@@ -1,0 +1,10 @@
+3.Tokens of java?
+
+ans: keywords
+     identifiers
+     literals
+     operators
+     separators
+     comments
+     
+    

@@ -1,0 +1,7 @@
+1.waht is java?
+ans: java is an High level language and it is also an platform independent language
+     java ia object oriented programming language too.
+
+2.features of java?
+
+ans: simple, oops, secure, robust, protable , dynamic , platform independent
